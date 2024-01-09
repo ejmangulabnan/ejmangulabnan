@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ejmangulabnan
+- 👋 Hi, I’m Edgardo Mangulabnan Jr.
 - 👀 I’m interested in Arnis, Games, Food
 - 🌱 I’m currently learning Java, HTML, Python 
 - 💞️ I’m looking to collaborate on nothing at the moment
